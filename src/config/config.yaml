@@ -1,0 +1,18 @@
+credentials:
+  usernames:
+    asplanviak:
+      name: Asplan Viak
+      password: $2b$12$WHUFQ6HmcYoGCYqwJnhPxec9kGh0A3DW78CtpF/WyDdp2bhqydTF.
+      email: test@gmail.com
+      first_name: test
+      last_name: test
+    trondheim:
+      name: Trondheim kommune
+      password: $2b$12$V7a///bRYLj2imwH/9TcveDxym56L9cmb/IxFPOkMznNQKWfx.cnu
+      email: test@gmail.com
+      first_name: test
+      last_name: test
+cookie:
+  expiry_days: 120
+  key: some_signature_key
+  name: some_cookie_name
